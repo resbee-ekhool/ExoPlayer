@@ -2473,5 +2473,8 @@ public class SimpleExoPlayer extends BasePlayer
         cameraMotionListener.onCameraMotionReset();
       }
     }
+      public int getIdMaazter() {
+          return 25;
+      }
   }
 }
